@@ -68,7 +68,9 @@ This project implements a **state-of-the-art CNN architecture** for classifying 
 
 ---
 
+
 ## 🏛️ Architecture
+
 
 ```
 ┌─────────────────────────────────────────────┐
@@ -313,14 +315,30 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### 📬 Contact & Support
 
+<div align="center">
+
+<h3>👤 Author</h3>
+
+<a href="https://github.com/iampiyushchouhan">
+  <img src="https://github.com/iampiyushchouhan.png" alt="Piyush's Profile" width="120" style="border-radius: 50%;"/>
+</a>
+
+<p><strong>Piyush Chouhan</strong></p>
+<h3> Need Help?</h3>
+
+<a href="https://github.com/iampiyushchouhan/fashion-mnist/issues">
+  <img src="https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github" alt="GitHub Issues"/>
+</a>
+<a href="https://www.linkedin.com/in/iampiyushchouhan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+</a>
+
+</div>
+
 If you found this project helpful, please consider giving it a ⭐!
 
 **Built with ❤️ for the Deep Learning Community**
 
 [Report Bug](../../issues) • [Request Feature](../../issues) • [Documentation](../../wiki)
-
----
-
-*Made with Python 🐍 and TensorFlow 🧠*
 
 </div>
