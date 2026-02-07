@@ -1,0 +1,20 @@
+# Virtual Environment
+mnist/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+share/
+
+# Python/Jupyter cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large Files & Models
+fashion_mnist_cnn_model.keras
+fashion_mnist_test.csv
+fashion_mnist_train.csv
+
+*.csv
+*.keras
